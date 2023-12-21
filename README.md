@@ -1,6 +1,6 @@
 # ASLAnalysis
 This pipeline analyzes the ASL results from ADNI3.
-This one works on data that was available on Azure database as of 12/01/2023. 
+This one works on data that was available on Azure database as of 12/06/2023. 
 The Amyloid and Tau info was taken from Loni that was last updated sometime in May 2023. 
 So, far the code assocites Amyloid and Tau PET info with the ASL data based on time between the PET scand and ASL scans.
 If the PET scans are collected within 180 days of ASL scan, the PET info is directly linked to that ASL scan. 
